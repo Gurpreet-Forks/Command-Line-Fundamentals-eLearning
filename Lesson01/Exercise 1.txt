@@ -1,0 +1,64 @@
+ # Step 1 has no commands - ensure that a Lesson1 folder exists (here assumed to be within the home dir)
+
+
+ # Step 2
+cd Lesson1 
+ls 
+
+
+ # Step 3
+cd data 
+ls 
+
+
+ # Step 4
+ls taxaceae podocarpaceae 
+
+
+ # Step 5
+ls -l --color 
+
+ 
+ # Step 6
+cd taxaceae 
+tree -d 
+
+ # Step 7
+cd taxus
+cd - 
+
+ # Step 8
+cd ../../.. 
+cd - 
+
+ # Step 9
+cd 
+cd - 
+
+ # Step 10
+pwd 
+
+
+ # Step 11
+pushd taxus/baccata/ 
+pushd ../sumatrana/
+pushd ../../../pinaceae/cedrus/deodara/ 
+
+
+ # Step 12
+popd 
+popd 
+popd 
+popd 
+
+
+ # Step 13
+cd taxus/baccata 
+cat data.txt  
+
+
+ # Step 14
+ls -l 
+less data.txt
+
+

@@ -1,0 +1,246 @@
+# Taxus floridana
+
+From Wikipedia, the free encyclopedia
+
+Jump to navigation Jump to search
+
+Taxus floridana  
+  
+Conservation status  
+  
+  
+Critically Endangered (IUCN 3.1)[1]  
+  
+Scientific classification  
+Kingdom: Plantae  
+Division: Pinophyta  
+Class: Pinopsida  
+Order: Pinales  
+Family: Taxaceae  
+Genus: Taxus  
+Species:  T. floridana  
+Binomial name  
+Taxus floridana  
+Nutt. ex Chapm.  
+Natural range  
+  
+Taxus floridana, the Florida yew,[2] is a species of yew, endemic to a small
+area of under 10 km2 on the eastern side of the Apalachicola River in
+mesophytic forests of northern Florida at altitudes of 15-40 m. It is listed
+as critically endangered.[3][4][5] It is protected in reserves at the Torreya
+State Park and at the Nature Conservancy's Apalachicola Bluffs and Ravines
+Preserve, and has legal protection under the United States and Florida
+Endangered Species laws.
+
+## Contents
+
+  * 1 Description
+  * 2 Ecology
+  * 3 Uses
+  * 4 Threats
+  * 5 References
+
+## Description[edit]
+
+It is an evergreen coniferous shrub or small tree growing to 6 m (rarely 10 m)
+tall, with a trunk up to 38 cm diameter. The bark is thin, scaly purple-brown,
+and the branches are irregularly orientated. The shoots are green at first,
+becoming brown after three or four years. The leaves are thin, flat, slightly
+falcate (sickle-shaped), 1-2.9 cm long and 1-2 mm broad, with a bluntly acute
+apex; they are arranged spirally on the shoots but twisted at the base to
+appear in two horizontal ranks on all except for erect lead shoots.
+Individuals typically occur in clumps and are multi-stemmed with varying stem
+densities . It is dioecious, with the male and female cones on separate
+plants; the seed cone is highly modified, berry-like, with a single scale
+developing into a soft, juicy red aril 1 cm diameter, containing a single dark
+brown seed 5-6 mm long and occur singly on few leaf axils. The pollen cones
+are globose, 4 mm diameter, produced on the undersides of the shoots in early
+spring.[4][6][7]
+
+It occurs in the same region as the even rarer Torreya taxifolia, and is
+similar to it in general appearance, but can be told by the shorter, blunt-
+tipped (not spine-tipped) leaves and the less strong smell of the crushed
+leaves. Distinction from other yew species is more difficult, and like most
+yews it has sometimes been treated as a subspecies of Taxus baccata, as T.
+baccata subsp. floridana (Nutt. ex Chapm.) Pilger.[8]
+
+## Ecology[edit]
+
+Taxus floridana grows slowly, and prefers slightly acidic soil and partial
+shade on moderate north-facing slopes and is highly fire sensitive as well as
+shade tolerant. Potential influences on their distribution include variation
+of soil, aspect, and moisture. There is no indicator species associated with
+it.[7][9] It is hardy to USDA zone 8\. It can be grown from cuttings or seeds.
+Seed scarification is required for germination and it persists through
+layering and sprouting. Birds feed on their cones and excavate stems for
+insects.[7][10]
+
+## Uses[edit]
+
+The bark contains paclitaxel, a mitotic inhibitor used to combat numerous
+forms of cancer. The seeds and leaves, however, are poisonous to humans if
+consumed.
+
+## Threats[edit]
+
+White-tailed deer rubbing and browsing particularly on small stems, being a
+source of food for beavers, and occurring in areas subject to logging and
+development are all potential threats to the few existing populations.[7][10]
+Threats of habitat degradation and reduced regeneration capabilities are the
+most prominent issue, which have resulted in no new recruitment in the past
+few decades, greatly affecting population demographics.[10] There are a couple
+of populations located on unprotected private lands, which are particularly
+susceptible.[11]
+
+## References[edit]
+
+  1. ^ Spector, T.; Thomas, P. & Determann, R. (2011). "Taxus floridana". The IUCN Red List of Threatened Species. IUCN. 2011: e.T30965A9584928. doi:10.2305/IUCN.UK.2011-2.RLTS.T30965A9584928.en. Retrieved 10 November 2017.
+  2. ^ "Taxus floridana". Natural Resources Conservation Service PLANTS Database. USDA. Retrieved 8 December 2015.
+  3. ^ Conifer Specialist Group 1998 (2007). "Taxus floridana". IUCN Red List of Threatened Species. Version 2007. International Union for Conservation of Nature. Retrieved 18 November 2007.
+  4. ^ a b Flora of North America: Taxus floridana
+  5. ^ Kurz, Herman (1927). "A NEW AND REMARKABLE HABITAT FOR THE ENDEMIC FLORIDA YEW". Torreya. 27: 90-92.
+  6. ^ Rushforth, K. (1987). Conifers. Helm ISBN 0-7470-2801-X.
+  7. ^ a b c d "Taxus floridana". www.fs.fed.us. Retrieved 2016-11-14.
+  8. ^ Farjon, A. (1998). World Checklist and Bibliography of Conifers. Royal Botanic Gardens, Kew ISBN 1-900347-54-7.
+  9. ^ "The Distribution of Tree Species in Steepheads of the Apalachicola River Bluffs, Florida". The Journal of the Torrey Botanical Society. doi:10.2307/2997244.
+  10. ^ a b c "Taxus floridana (Florida Yew)". www.iucnredlist.org. Retrieved 2016-11-14.
+  11. ^ "Florida yew | United States Botanic Garden". www.usbg.gov. Retrieved 2016-11-23.
+
+Taxon identifiers
+
+  * Wikidata: Q1430041
+  * Wikispecies: Taxus floridana
+  * ARKive: taxus-floridana
+  * Conifers.org: Taxus_floridana
+  * EoL: 128496
+  * EPPO: TAXFL
+  * FNA: 233501255
+  * GBIF: 5284513
+  * GRIN: 415429
+  * iNaturalist: 135548
+  * IPNI: 285874-2
+  * IRMNG: 10195507
+  * ITIS: 194887
+  * IUCN: 30965
+  * NCBI: 156270
+  * Plant List: kew-2434140
+  * PLANTS: TAFL
+  * POWO: urn:lsid:ipni.org:names:285874-2
+  * Tropicos: 31200011
+  * WCSP: 378614
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Taxus_floridana&oldid=825970172"
+
+Categories:
+
+  * IUCN Red List critically endangered species
+  * Taxus
+  * Trees of the Southeastern United States
+  * Critically endangered flora of the United States
+  * Endemic flora of Florida
+
+Hidden categories:
+
+  * Articles with 'species' microformats
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+  * Wikispecies
+
+### Languages
+
+  * ???????
+  * Az?rbaycanca
+  * ??????
+  * ?????????
+  * Cebuano
+  * Deutsch
+  * Islenska
+  * Norsk
+  * ???????
+  * Svenska
+  * ??????????
+  * Tieng Viet
+  * Winaray
+
+Edit links
+
+  * This page was last edited on 16 February 2018, at 13:08 (UTC).
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia(R) is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+

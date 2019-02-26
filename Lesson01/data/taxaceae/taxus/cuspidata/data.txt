@@ -1,0 +1,244 @@
+# Taxus cuspidata
+
+From Wikipedia, the free encyclopedia
+
+Jump to navigation Jump to search
+
+Taxus cuspidata  
+  
+Conservation status  
+  
+  
+Least Concern (IUCN 2.3)[1]  
+  
+Scientific classification  
+Kingdom: Plantae  
+Division: Pinophyta  
+Class: Pinopsida  
+Order: Pinales  
+Family: Taxaceae  
+Genus: Taxus  
+Species:  T. cuspidata  
+Binomial name  
+Taxus cuspidata  
+Siebold & Zucc.  
+  
+Taxus cuspidata, the Japanese yew[2] or spreading yew, is a member of the
+genus Taxus, native to Japan, Korea, northeast China and the extreme southeast
+of Russia.
+
+It is an evergreen tree or large shrub growing to 10-18 m tall, with a trunk
+up to 60 cm diameter. The leaves are lanceolate, flat, dark green, 1-3 cm long
+and 2-3 mm broad, arranged spirally on the stem, but with the leaf bases
+twisted to align the leaves in two flattish rows either side of the stem
+except on erect leading shoots where the spiral arrangement is more obvious.
+
+The seed cones are highly modified, each cone containing a single seed 4-8 mm
+long partly surrounded by a modified scale which develops into a soft, bright
+red berry-like structure called an aril, 8-12 mm long and wide and open at the
+end. The arils are mature 6-9 months after pollination. Individual trees from
+Sikhote-Alin are known to have been 1,000 years old.[3]
+
+## Uses[edit]
+
+It is widely grown in eastern Asia and eastern North America as an ornamental
+plant.
+
+  * Closeup of the leaves on a stem 
+
+  * Rough bark of the tree 
+
+## Toxicity[edit]
+
+The entire yew bush, except for the fleshy berry surrounding the seed, is
+toxic due to a group of chemicals called taxine alkaloids.[4] Yew poisonings
+are relatively common in both domestic and wild animals who consume the plant
+accidentally.[5][6][7] Taxine B, the most toxic of the taxine alkaloids, is a
+cardiotoxin which works by disrupting the calcium and sodium currents of the
+myocardial cells.[8][9] The taxine alkaloids are absorbed quickly from the
+intestine and in high enough quantities can cause death due to cardiac arrest
+or respiratory failure.[10] Ingesting yew causes symptoms such as dizziness,
+dilation of pupils, abdominal pain, nausea and an irregular heartbeat.[11]
+
+The minimum lethal dose (LDmin) of yew leaves is 3.0-6.5 mg/kg body weight for
+humans, 1-2 mg/kg for horses and 82.5 mg/kg for chickens.[12] There is
+currently no known antidotes for yew poisoning but drugs such as atropine have
+been used to treat the symptoms.[13]
+
+Wikimedia Commons has media related to Taxus cuspidata.  
+  
+## References[edit]
+
+  1. ^ Conifer Specialist Group (1998). "Taxus cuspidata". IUCN Red List of Threatened Species. Version 2006. International Union for Conservation of Nature. Retrieved 5 May 2006.
+  2. ^ "Taxus cuspidata". Natural Resources Conservation Service PLANTS Database. USDA. Retrieved 8 December 2015.
+  3. ^ "???????? ??????? "?????? - ?????". ????? ???????????? ????? ???????? "????"" [The nature monument "Sikhote - Alin". Center for the rehabilitation of wild animals "UTES"]. ????????????? ?????????[Tourist complexes] (in Russian). Archived from the original on 2007-09-29.
+  4. ^ Wilson, Christina R.; Sauer, John-Michael; Hooser, Stephen B. (2001). "Taxines: a review of the mechanism and toxicity of yew (Taxus spp.) alkaloids". Toxicon. 39 (2-3): 175-185. doi:10.1016/s0041-0101(00)00146-x. ISSN 0041-0101.
+  5. ^ "JAPANESE YEW PLANT POISONING - USA: (IDAHO) PRONGHORN ANTELOPE". ProMED-mail. 24 January 2016. Retrieved 25 January 2016.
+  6. ^ "PLANT POISONING, CERVID - USA: (ALASKA) ORNAMENTAL TREE, MOOSE". ProMED-mail. 22 February 2011. Retrieved 25 January 2016.
+  7. ^ Tiwary, Asheesh K.; Puschner, Birgit; Kinde, Hailu; Tor, Elizabeth R. (May 2005). "Diagnosis of Taxus (yew) poisoning in a horse". Journal of Veterinary Diagnostic Investigation: Official Publication of the American Association of Veterinary Laboratory Diagnosticians, Inc. 17 (3): 252-255. doi:10.1177/104063870501700307. ISSN 1040-6387. PMID 15945382.
+  8. ^ Garland, Tam; Barr, A. Catherine (1998). Toxic plants and other natural toxicants. International Symposium on Poisonous Plants (5th : 1997 : Texas). Wallingford, England: CAB International. ISBN 0851992633. OCLC 39013798.
+  9. ^ Alloatti, G.; Penna, C.; Levi, R. C.; Gallo, M. P.; Appendino, G.; Fenoglio, I. (1996). "Effects of yew alkaloids and related compounds on guinea-pig isolated perfused heart and papillary muscle". Life Sciences. 58 (10): 845-854. ISSN 0024-3205. PMID 8602118.
+  10. ^ Fuller, Thomas C.; McClintock, Elizabeth May (1986). Poisonous plants of California. Berkeley: University of California Press. ISBN 0520055683. OCLC 13009854.
+  11. ^ Turner, Nancy J.; von Aderkas, P.; Turner, Nancy J. (2009). The North American guide to common poisonous plants and mushrooms. Portland: Timber Press. ISBN 9781604691450. OCLC 747112294.
+  12. ^ Gupta, Ramesh C. (2012). Veterinary toxicology : basic and clinical principles (2nd ed.). Oxford: Academic. ISBN 9780123859266. OCLC 778786624.
+  13. ^ Wilson, Christina R.; Hooser, Stephen B. (2018). Veterinary Toxicology. Elsevier. pp. 947-954. doi:10.1016/b978-0-12-811410-0.00066-0. ISBN 9780128114100.
+
+Taxon identifiers
+
+  * Wikidata: Q1144815
+  * Wikispecies: Taxus cuspidata
+  * Conifers.org: Taxus_cuspidata
+  * EoL: 1059908
+  * EPPO: TAXCU
+  * FoC: 200005496
+  * GBIF: 5284524
+  * GRIN: 80073
+  * iNaturalist: 133386
+  * IPNI: 324379-2
+  * IRMNG: 10591024
+  * ITIS: 194886
+  * IUCN: 42549
+  * NCBI: 99806
+  * PfaF: Taxus cuspidata
+  * Plant List: kew-2434128
+  * PLANTS: TACU
+  * POWO: urn:lsid:ipni.org:names:324379-2
+  * Species+: 18868
+  * Tropicos: 31200028
+  * WCSP: 378602
+
+  
+  
+Authority control
+
+  * NDL: 00576527
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Taxus_cuspidata&oldid=846863393"
+
+Categories:
+
+  * IUCN Red List least concern species
+  * Taxus
+  * Trees of China
+  * Trees of Korea
+  * Trees of Japan
+  * Trees of Siberia
+  * Plants used in bonsai
+  * Poisonous plants
+
+Hidden categories:
+
+  * CS1 Russian-language sources (ru)
+  * Articles with 'species' microformats
+  * Wikipedia articles with NDL identifiers
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+  * Wikispecies
+
+### Languages
+
+  * ???????
+  * Az?rbaycanca
+  * Cebuano
+  * Dansk
+  * Deutsch
+  * Espanol
+  * ?????
+  * Francais
+  * ???
+  * Islenska
+  * ???
+  * Norsk
+  * Polski
+  * Portugues
+  * ???????
+  * Scots
+  * Suomi
+  * Svenska
+  * ??????????
+  * Tieng Viet
+  * Winaray
+  * ??
+
+Edit links
+
+  * This page was last edited on 21 June 2018, at 10:12 (UTC).
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia(R) is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+

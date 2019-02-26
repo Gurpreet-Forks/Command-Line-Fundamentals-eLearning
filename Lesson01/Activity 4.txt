@@ -1,0 +1,17 @@
+ # Activity 4 - group files by extension
+
+cd ~/Lesson1/data1
+mkdir images
+mkdir binaries
+mkdir misc
+
+
+mv *.jpg *.jpeg *.png *.gif images/ 
+mv *.a *.so *.so.* binaries/ 
+mv *.* misc/ 
+
+
+ # Read the counts from each tree command
+tree images
+tree binaries
+tree misc

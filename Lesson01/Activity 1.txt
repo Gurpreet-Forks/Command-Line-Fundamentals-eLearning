@@ -1,0 +1,29 @@
+# Assuming that the working directory is the home directory of the user
+
+# Solution 1
+cd Lesson1/data
+cd pinaceae/cedrus/deodara/
+less data.txt
+
+
+# Solution 2
+cd ../../..
+cd pinaceae/abies/pindrow/
+less data.txt
+# Type /derives from <ENTER> 
+# Read the answer on that line
+
+
+# Solution 3
+cd ../../..
+cd taxaceae/taxus/
+tree -d
+
+
+# Solution 4
+cd ../..
+tree
+
+
+
+

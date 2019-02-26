@@ -1,0 +1,39 @@
+ # "Press" means press those keystrokes. See lesson content for details.
+
+
+ # Step 1
+mkdir data2  
+cd data2  
+
+
+ # Step 2
+# Press: ^R
+animals
+
+
+ # Step 3
+# Press: ^R^R ENTER 
+# The following mkdir command appears and is executed from history
+# mkdir animals
+cd animals
+
+
+ # Step 4
+# Press: ESC < ^Sfa^S^S Enter 
+# The following mkdir command appears and is executed from history
+# mkdir -p canis/lupus/familiaris 
+ 
+
+ # Step 5
+# Press: up arrow
+# The following mkdir command appears on the command line
+# mkdir -p canis/lupus/familiaris 
+
+# Edit the last word to make it as follows
+# mkdir -p canis/lupus/lupus
+# Press: Enter to execute it
+
+
+
+
+

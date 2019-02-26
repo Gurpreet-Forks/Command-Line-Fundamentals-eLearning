@@ -1,0 +1,12 @@
+ # Activity 5 solution - Directory wildcards
+ # Navigate to the trees data folder in Lesson1/data
+cd ~/Lesson1/data
+
+ # Read the file counts for each tree command
+
+tree p*/?a* 
+
+tree p*/?i*/?u* 
+
+tree t*/t* 
+

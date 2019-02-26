@@ -1,0 +1,359 @@
+# Pinus taeda
+
+From Wikipedia, the free encyclopedia
+
+Jump to navigation Jump to search
+
+Pinus taeda  
+Characteristic appearance of loblolly pines, south Mississippi, USA  
+  
+Conservation status  
+  
+  
+Least Concern (IUCN 3.1)[1]  
+  
+Scientific classification  
+Kingdom:  Plantae  
+Division:  Pinophyta  
+Class:  Pinopsida  
+Order:  Pinales  
+Family:  Pinaceae  
+Genus:  Pinus  
+Subgenus:  Pinus  
+Species:  P. taeda  
+Binomial name  
+Pinus taeda  
+L.  
+Natural range of loblolly pine  
+  
+Pinus taeda, commonly known as loblolly pine, is one of several pines native
+to the Southeastern United States, from central Texas east to Florida, and
+north to Delaware and southern New Jersey.[2] The wood industry classifies the
+species as a southern yellow pine.[3] U.S. Forest Service surveys found that
+loblolly pine is the second-most common species of tree in the United States,
+after red maple.[4] For its timber, the pine species is regarded as the most
+commercially important tree in Southeastern US.[5][6][7]
+
+The common name loblolly is given because the pine species is found mostly in
+lowlands and swampy areas.[8]
+
+Loblolly pine is the first among over 100 species of Pinus to have its
+complete genome sequenced. As of March 2014, it was the organism having the
+largest sequenced genome size. Its genome, with 22 billion base pairs, is
+seven times larger than that of humans.[9][10] As of 2018, assembly of the
+Axolotl genome (32Gb) displaced loblolly pine as the largest assembled
+genome.[11]
+
+## Contents
+
+  * 1 Description
+  * 2 Taxonomy and naming
+  * 3 Ecology
+  * 4 Notable trees
+  * 5 Genome
+  * 6 Inbreeding depression
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+## Description[edit]
+
+Developing male cones and needles
+
+Loblolly pine can reach a height of 30-35 m (98-115 ft) with a diameter of
+0.4-1.5 m (1.3-4.9 ft). Exceptional specimens may reach 50 m (160 ft) tall,
+the largest of the southern pines. Its needles are in bundles of three,
+sometimes twisted, and measure 12-22 cm (4 3/4-8 3/4 in) long, an intermediate
+length for southern pines, shorter than those of the longleaf pine or slash
+pine, but longer than those of the shortleaf pine and spruce pine. The needles
+usually last up to two years before they fall, which gives the species its
+evergreen character. Although some needles fall throughout the year due to
+severe weather, insect damage, and drought, most needles fall during the
+autumn and winter of their second year. The seed cones are green, ripening
+pale buff-brown, 7-13 cm (2 3/4-5 in) in length, 2-3 cm (3/4-1 1/4 in) broad
+when closed, opening to 4-6 cm (1 1/2-2 1/4 in) wide, each scale bearing a
+sharp spine 3 to 6 mm (0.12 to 0.24 in) long.[2][12]
+
+The tallest loblolly pine currently known, which is 51.4 m (169 ft) tall, and
+the largest, which measures 42 m3 (1,500 cu ft) in volume, are in Congaree
+National Park.[13]
+
+## Taxonomy and naming[edit]
+
+Mature unopened female cones
+
+The word "loblolly" is a combination of "lob", referring to thick, heavy
+bubbling of cooking porridge, and "lolly", an old British dialect word for
+broth, soup, or any other food boiled in a pot. In the southern United States,
+the word is used to mean "a mudhole; a mire," a sense derived from an allusion
+to the consistency of porridge. Hence, the pine is named as it is generally
+found in lowlands and swampy areas.[8] Loblolly pines grow well in acidic,
+clay soil, which is common throughout the South, thus are often found in large
+stands in rural places. Other old names, now rarely used, include oldfield
+pine, due to its status as an early colonizer of abandoned fields; bull pine,
+due to its size (several other yellow pines are also often so named,
+especially large isolated specimens); rosemary pine, due to loblolly's
+distinctive fragrance compared to the other southern pines; and North Carolina
+pine.[14]
+
+For the scientific name, Pinus is the Latin name for the pines and taeda
+refers to the resinous wood.[15]
+
+Bark on a mature tree
+
+## Ecology[edit]
+
+With the advent of wildfire suppression, loblolly pine has become prevalent in
+some parts of the Deep South that were once dominated by longleaf pine and,
+especially in northern Florida, slash pine.[16]
+
+The rate of growth is rapid, even among the generally fast-growing southern
+pines. The yellowish, resinous wood is prized for lumber, but is also used for
+wood pulp. This tree is commercially grown in extensive plantations.[3]
+
+Loblolly pine is the pine of the Lost Pines Forest around Bastrop, Texas, and
+in McKinney Roughs along the Texas Colorado River. These are isolated
+populations on areas of acidic sandy soil, surrounded by alkaline clays that
+are poor for pine growth.
+
+A study using loblolly pines showed that higher atmospheric carbon dioxide
+levels may help the trees to endure ice storms better.[17]
+
+## Notable trees[edit]
+
+The famous "Eisenhower Tree" on the 17th hole of Augusta National Golf Club
+was a loblolly pine. U.S. President Dwight D. Eisenhower, an Augusta National
+member, hit the tree so many times that at a 1956 club meeting, he proposed
+that it be cut down. Not wanting to offend the President, the club's chairman,
+Clifford Roberts, immediately adjourned the meeting rather than reject the
+request outright. In February 2014, an ice storm severely damaged the
+Eisenhower Tree. The opinion of arborists was that the tree could not be saved
+and should be removed.[18]
+
+The "Morris Pine" is located in southeastern Arkansas; it is over 300 years
+old with a diameter of 142 cm (56 in) and a height of 35.7 m (117 ft).[19]
+
+Loblolly pine seeds were carried aboard the Apollo 14 flight. On its return,
+the seeds were planted in several locations in the US, including the grounds
+of the White House. As of 2016[update], a number of these moon trees remain
+alive.[20]
+
+## Genome[edit]
+
+Pines are the most common conifers and the genus Pinus consists of more than
+100 species. Sequencing of their genomes remained a huge challenge because of
+the high complexity and size.[21] Loblolly pine became the first species with
+its complete genome sequenced.[9][22] This was the largest genome assembled
+until 2018, when the Axolotl genome (32Gb) was assembled.[11] The loblolly
+pine genome is made up of 22.18 billion base pairs, which is more than seven
+times that of humans.[10] Conifer genomes are known to be full of repetitive
+DNA, which make up 82% of the genome in loblolly pine (compared to only 50% in
+humans). The number of genes is estimated at about 50,172, of which 15,653 are
+already confirmed. Most of the genes are duplicates. Some genes have the
+longest introns observed among 24 fully sequenced plant genomes.[23]
+
+## Inbreeding depression[edit]
+
+Gymnosperms are predominantly outcrossing, but lack genetic self-
+incompatibility. Loblolly pine, like most gymnosperms, exhibits high levels of
+inbreeding depression, especially in the embryonic stage. The loblolly pine
+harbors an average load of at least eight lethal equivalents.[24] A lethal
+equivalent is the number of deleterious genes per haploid genome whose
+cumulative effect is the equivalent of one lethal gene. The presence of at
+least eight lethal equivalents implies substantial inbreeding depression upon
+self-fertilization.
+
+## See also[edit]
+
+  * Trees portal
+
+  * Sonderegger pine, a hybrid between loblolly and longleaf species
+
+## References[edit]
+
+  1. ^ Farjon, A. (2013). "Pinus taeda". The IUCN Red List of Threatened Species. IUCN. 2013: e.T42420A2978958. doi:10.2305/IUCN.UK.2013-1.RLTS.T42420A2978958.en. Retrieved 27 December 2017.
+  2. ^ a b Kral, Robert (1993). "Pinus taeda". In Flora of North America Editorial Committee. Flora of North America North of Mexico (FNA). 2. New York and Oxford - via eFloras.org, Missouri Botanical Garden, St. Louis, MO & Harvard University Herbaria, Cambridge, MA. CS1 maint: Uses editors parameter (link) 
+  3. ^ a b Baker, James B.; Langdon, 0. Gordon (1990). "Pinus taeda". In Burns, Russell M.; Honkala, Barbara H. Conifers. Silvics of North America. Washington, D.C.: United States Forest Service (USFS), United States Department of Agriculture (USDA). 1 - via Southern Research Station (www.srs.fs.fed.us).
+  4. ^ Nix, Steve. "Ten Most Common Trees in the United States". About.com Forestry. Retrieved 11 January 2013.
+  5. ^ "Loblolly Pine". Plant Information Center. Retrieved 27 March 2014.
+  6. ^ "Loblolly pine". Virginia Tech Forestry Department. Retrieved 27 March 2014.
+  7. ^ "Loblolly Pine". Tree Improvement Programme. Retrieved 27 March 2014.
+  8. ^ a b The American Heritage(R) Dictionary of the English Language (4th ed.). Houghton Mifflin Company. 2000.
+  9. ^ a b Zimin, A.; Stevens, K. A.; Crepeau, M. W.; Holtz-Morris, A.; Koriabine, M.; Marcais, G.; Puiu, D.; Roberts, M.; Wegrzyn, J. L.; de Jong, P. J.; Neale, D. B.; Salzberg, S. L.; Yorke, J. A.; Langley, C. H. (2014). "Sequencing and Assembly of the 22-Gb Loblolly Pine Genome". Genetics. 196 (3): 875-890. doi:10.1534/genetics.113.159715. PMC 3948813 . PMID 24653210.
+  10. ^ a b Main, Douglas (20 March 2014). "Scientists Sequence The Largest Genome To Date". Popular Science. A Bonnier Corporation Company. Retrieved 27 March 2014.
+  11. ^ a b Eugene W. Myers, Sergej Nowoshilow (2018). "The axolotl genome and the evolution of key tissue formation regulators". doi:10.1038/nature25458.
+  12. ^ Farjon, A. (2005). Pines. Drawings and descriptions of the genus Pinus, ed.2. Brill, Leiden ISBN 90-04-13916-8.
+  13. ^ Earle, Christopher J., ed. (2018). "Pinus taeda". The Gymnosperm Database.
+  14. ^ Moore, Gerry; Kershner, Bruce; Tufts, Craig; Mathews, Daniel; Nelson, Gil; Spellenberg, Richard; Thieret, John W.; Purinton, Terry; Block, Andrew (2008). National Wildlife Federation Field Guide to Trees of North America. New York: Sterling. p. 73\. ISBN 1-4027-3875-7.
+  15. ^ Oklahoma Biological Survey: Pinus taeda L.
+  16. ^ Richardson, D. M., & Rundel, P. W. (1998). Ecology and biogeography of Pinus: an introduction. Pages 3-46 in Richardson, D. M., ed. Ecology and biogeography of Pinus. Cambridge University Press ISBN 0-521-55176-5.
+  17. ^ Greenhouse Gas Good for Some Trees \- LiveScience.com
+  18. ^ "Masters landmark Ike's Tree suffers major damage, removed". The Augusta Chronicle. February 16, 2014. Retrieved February 17, 2014.
+  19. ^ Bragg, Don C. "The Morris Pine" (PDF). Bulletin of the Eastern Native Tree Society. Volume 1 (Summer 2006): 20. Retrieved 2012-11-13.
+  20. ^ Williams, David R. (28 July 2009). "The "Moon Trees"". Goddard Space Flight Center. NASA. Retrieved 8 March 2016.
+  21. ^ Neves, Leandro G.; Davis, John M.; Barbazuk, William B.; Kirst, Matias (2013). "Whole-exome targeted sequencing of the uncharacterized pine genome". The Plant Journal. 75 (1): 146-156. doi:10.1111/tpj.12193. PMID 23551702.
+  22. ^ Neale, David B; Wegrzyn, Jill L; Stevens, Kristian A; Zimin, Aleksey V; Puiu, Daniela; Crepeau, Marc W; Cardeno, Charis; Koriabine, Maxim; Holtz-Morris, Ann E; Liechty, John D; Martinez-Garcia, Pedro J; Vasquez-Gross, Hans A; Lin, Brian Y; Zieve, Jacob J; Dougherty, William M; Fuentes-Soriano, Sara; Wu, Le-Shin; Gilbert, Don; Marcais, Guillaume; Roberts, Michael; Holt, Carson; Yandell, Mark; Davis, John M; Smith, Katherine E; Dean, Jeffrey FD; Lorenz, W Walter; Whetten, Ross W; Sederoff, Ronald; Wheeler, Nicholas; McGuire, Patrick E; Main, Doreen; Loopstra, Carol A; Mockaitis, Keithanne; deJong, Pieter J; Yorke, James A; Salzberg, Steven L; Langley, Charles H (2014). "Decoding the massive genome of loblolly pine using haploid DNA and novel assembly strategies". Genome Biology. 15 (3): R59. doi:10.1186/gb-2014-15-3-r59. PMC 4053751 . PMID 24647006.
+  23. ^ Wegrzyn, J. L.; Liechty, J. D.; Stevens, K. A.; Wu, L.-S.; Loopstra, C. A.; Vasquez-Gross, H. A.; Dougherty, W. M.; Lin, B. Y.; Zieve, J. J.; Martinez-Garcia, P. J.; Holt, C.; Yandell, M.; Zimin, A. V.; Yorke, J. A.; Crepeau, M. W.; Puiu, D.; Salzberg, S. L.; de Jong, P. J.; Mockaitis, K.; Main, D.; Langley, C. H.; Neale, D. B. (2014). "Unique Features of the Loblolly Pine (Pinus taeda L.) Megagenome Revealed Through Sequence Annotation". Genetics. 196 (3): 891-909. doi:10.1534/genetics.113.159996. PMC 3948814 . PMID 24653211.
+  24. ^ Remington DL, O'Malley DM (2000). "Whole-genome characterization of embryonic stage inbreeding depression in a selfed loblolly pine family". Genetics. 155 (1): 337-48. PMC 1461072 . PMID 10790407.
+
+## External links[edit]
+
+  * Data related to Pinus taeda at Wikispecies
+  * Media related to Pinus taeda at Wikimedia Commons
+
+Taxon identifiers
+
+  * Wikidata: Q368248
+  * Wikispecies: Pinus taeda
+  * ARKive: pinus-taeda
+  * EoL: 1033636
+  * EPPO: PIUTD
+  * FNA: 200005364
+  * FoC: 200005364
+  * GBIF: 5285241
+  * GRIN: 28556
+  * iNaturalist: 59921
+  * IPNI: 263357-1
+  * IRMNG: 10200557
+  * ITIS: 18037
+  * IUCN: 42420
+  * NCBI: 3352
+  * NZOR: 3f63beb6-efd6-4b18-8614-259aa4460051
+  * Plant List: kew-2562300
+  * PLANTS: PITA
+  * POWO: urn:lsid:ipni.org:names:263357-1
+  * Tropicos: 24900221
+  * WCSP: 380129
+
+  
+  
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Pinus_taeda&oldid=851682104"
+
+Categories:
+
+  * IUCN Red List least concern species
+  * Pinus
+  * Trees of the Southeastern United States
+  * Trees of the South-Central United States
+  * Trees of humid continental climate
+  * Least concern plants
+  * Symbols of Arkansas
+  * Trees of the Southern United States
+  * Trees of the United States
+  * Trees of the Northeastern United States
+  * Plants described in 1753
+
+Hidden categories:
+
+  * CS1 maint: Uses editors parameter
+  * Articles with 'species' microformats
+  * Articles containing potentially dated statements from 2016
+  * All articles containing potentially dated statements
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * Talk
+  * Contributions
+  * Create account
+  * Log in
+
+### Namespaces
+
+  * Article
+  * Talk
+
+###  Variants
+
+### Views
+
+  * Read
+  * Edit
+  * View history
+
+### More
+
+###  Search
+
+### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+  * Donate to Wikipedia
+  * Wikipedia store
+
+### Interaction
+
+  * Help
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact page
+
+### Tools
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Permanent link
+  * Page information
+  * Wikidata item
+  * Cite this page
+
+### Print/export
+
+  * Create a book
+  * Download as PDF
+  * Printable version
+
+### In other projects
+
+  * Wikimedia Commons
+  * Wikispecies
+
+### Languages
+
+  * Az?rbaycanca
+  * Catala
+  * Cebuano
+  * Deutsch
+  * Espanol
+  * Esperanto
+  * ?????
+  * Francais
+  * Lietuviu
+  * ???
+  * Norsk
+  * ????? ????
+  * Polski
+  * Portugues
+  * ???????
+  * Svenska
+  * ??????
+  * ??????????
+  * Tieng Viet
+  * Winaray
+  * ??
+
+Edit links
+
+  * This page was last edited on 23 July 2018, at 22:18 (UTC).
+  * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia(R) is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+  * Contact Wikipedia
+  * Developers
+  * Cookie statement
+  * Mobile view
+
+  *   * 
+

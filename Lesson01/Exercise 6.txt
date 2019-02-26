@@ -1,0 +1,25 @@
+# "Press" means press those keystrokes, see lesson content for details
+# None of the auto completed commands are actually to be executed, 
+# Cancel each completed command with ^C or clear the command line before proceeding to the next "Press" step
+
+
+ # Step 1
+les
+# Press: Tab 
+# The following command gets completed
+# less
+
+ # Step 2
+rmd 
+# Press: Tab 
+# The following command appears 
+# rmdir 
+
+ # Step 3
+g
+# Press: Tab Tab
+# You are prompted if you wish to see all possibilities
+n 
+
+
+

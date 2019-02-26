@@ -1,0 +1,19 @@
+# Make sure you're in the parent of the Lesson1 folder
+# "Press" means press those keystrokes, see lesson content for details
+# None of the auto completed commands are actually to be executed, 
+# Cancel each completed command with ^C or clear the command line before proceeding to the next "Press" step
+
+
+ # Step 1
+cd Lesson1/data2/animals 
+
+
+ # Step 2
+cd canis 
+Press: / Tab Tab Tab
+ 
+
+ # Step 3 
+f
+Press: Tab
+ 
