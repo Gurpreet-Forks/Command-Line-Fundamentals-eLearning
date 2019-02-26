@@ -1,0 +1,92 @@
+#  Make sure you are in the ~/Lesson4 folder
+
+ # Step 1 to 4
+function trip_duration()
+{
+  # Split the dates and times into an array, using space as the IFS
+  IFS=' '
+  local dt_start=( $1 )
+  local dt_stop=( $2 )
+  
+  
+  # dt_start[1] and dt_stop contain the time value as HH:MM:SS
+  # Split the times into HH, MM and SS, using colon as the IFS
+  IFS=':'
+  local t_start=( ${dt_start[1]} )
+  local t_stop=( ${dt_stop[1]} )
+  
+  # Convert the HH MM SS to an absolute number of seconds
+  local n_start=$(( ${t_start[0]} * 3600 + ${t_start[1]} * 60 + ${t_start[2]} ))
+  local n_stop=$(( ${t_stop[0]} * 3600 + ${t_stop[1]} * 60 + ${t_stop[2]} ))
+  
+  echo $(( n_stop - n_start ))
+}
+
+
+ # Step 5
+trip_duration '2017-10-10 12:00:00' '2017-10-10 16:00:00' 
+trip_duration '2017-10-10 12:00:00' '2017-10-10 13:59:00' 
+trip_duration '2017-10-10 12:00:00' '2017-10-10 00:00:00' 
+
+
+ # Step 6 - Edit the last line of the above function as the following and save it as taxi1.sh
+ # Before moving to the next step, remember to run the command chmod u+x on it to make it executable
+
+echo $(( ((n_stop - n_start) + 86400) % 86400 ))
+
+
+ # Step 7
+./taxi1.sh '2017-10-10 12:00:00' '2017-10-10 00:00:00'
+
+
+ # Step 8 - Create the taxi2.sh script as per the lesson 
+ # Before moving to the next step, remember to run the command chmod u+x on it to make it executable
+
+
+
+ # Step 9
+./taxi2.sh <nyc_taxi.csv | head -n5
+head -n5 nyc_taxi.csv 
+./taxi2.sh <nyc_taxi.csv | head -n10 
+
+
+ # Step 10 - Create the taxi3.sh script by modifying taxi2.sh as per the lesson 
+ # Before moving to the next step, remember to run the command chmod u+x on it to make it executable
+
+
+ # Step 11
+./taxi3.sh <nyc_taxi.csv | head -n10 
+
+
+ # Step 12 - Create the taxi4.sh script as per the lesson 
+ # Before moving to the next step, remember to run the command chmod u+x on it to make it executable
+
+
+ # Step 13
+time head -n5000 nyc_taxi.csv | ./taxi4.sh >test.txt 
+
+
+ # Step 14 - Create the taxi5.sh script as per the lesson 
+ # Before moving to the next step, remember to run the command chmod u+x on it to make it executable
+
+ 
+ # Step 15
+time head -n5000 nyc_taxi.csv | ./taxi5.sh >test.txt 
+
+
+ # Step 16, 17 - Create the taxi6.sh script as per the lesson 
+ # Before moving to the next step, remember to run the command chmod u+x on it to make it executable
+
+
+ # Step 18
+time head -n5000 nyc_taxi.csv | ./taxi6.sh >test.txt 
+
+
+ # Step 19
+./taxi6.sh <nyc_taxi.csv >nyc_taxi2.csv 
+head -n5 nyc_taxi2.csv 
+
+
+ # Step 20
+wc -l nyc_taxi.csv 
+wc -l nyc_taxi2.csv 
